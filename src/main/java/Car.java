@@ -1,6 +1,3 @@
-public class Car extends Transport{
+public class Car{
 
-    public Car(String model) {
-        super(model);
-    }
 }
