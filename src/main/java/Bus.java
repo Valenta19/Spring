@@ -1,6 +1,3 @@
-public class Bus extends Transport{
+public class Bus{
 
-    public Bus(String model) {
-        super(model);
-    }
 }

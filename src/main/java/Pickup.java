@@ -1,6 +1,3 @@
-public class Pickup extends Transport{
+public class Pickup {
 
-    public Pickup(String model) {
-        super(model);
-    }
 }
